@@ -1,7 +1,7 @@
 # 2023_Kwangwoon_Univ_CE_DS_Project_3
 **2023-2 Data Structure Project #3**
 
-**Due data: 2023/12/16 23h 59m 59s.**
+**Due date: 2023/12/16 23h 59m 59s.**
 
 **본 프로젝트는 그래프 연산 프로그램을 구현하는 것으로 상세한 설명은 프로젝트 문서와 다음 설명을 참고한다.** 
 
