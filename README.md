@@ -18,3 +18,13 @@ initial upload
 sudo apt-get install git
 git clone https://github.com/Jiseok-Yang/2023_Kwangwoon_Univ_CE_DS_Project_3
 ```
+
+## How to Build and Run
+```
+cd src
+make
+./run
+```
+
+## Q & A
+Issues tab을 이용해주세요.
