@@ -9,6 +9,12 @@
 ![graph](https://github.com/Jiseok-Yang/2023_Kwangwoon_Univ_CE_DS_Project_3/assets/136494304/127aa01e-c5e9-4442-aae2-980b7a1cc041)
 
 ## Updata Notes
+**2023-11-17:**
+-변경 사항-
+제출 기한 변경
+기존 12월 16일 23:59:59(추가 제출 없었음)
+변경후=> 12월 14일 목요일 23:25:59, Delay 제출 12월 15일 금요일 23:59:59
+
 **2023-11-16:**
 
 initial upload
