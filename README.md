@@ -9,6 +9,10 @@
 ![graph](https://github.com/Jiseok-Yang/2023_Kwangwoon_Univ_CE_DS_Project_3/assets/136494304/127aa01e-c5e9-4442-aae2-980b7a1cc041)
 
 ## Updata Notes
+**2023-11-28:**  
+-변경 사항-<br/>  
+Kruskal을 log.txt에 출력할 때 기존에는 edge의 weight를 오름차순으로 출력인데, edge의 vertex값을 오름차순으로 변경했습니다.  
+
 **2023-11-17:**  
 -변경 사항-<br/>  
 제출 기한 변경  
